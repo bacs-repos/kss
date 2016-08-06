@@ -1,0 +1,26 @@
+#+DATE: Saturday, Aug 06 2016
+#+TITLE: A day wasted with wordpress
+#+DESCRIPTION: experementing with wp
+
+
+* Steps done:
+  1. build wordpress with compose file
+  2. configured wp from scratch
+  3. followed a tutorial on [[https://www.youtube.com/watch/?v=8nmZNfHZIEI][youtube]]
+  4. made a site, damn boring reptative && irritating mouse-clicks
+  5. exported the ~http://localhost:8080/site~ to html
+     #+BEGIN_SRC bash
+     wget.grab.all http://localhost:8000/
+     #+END_SRC
+     where, wget.grab.all is defined as:
+     #+BEGIN_SRC bash
+     which wget.grab.all                 
+wget.grab.all: aliased to wget --recursive --no-clobber --page-requisites --html-extension --convert-links --restrict-file-names=windows --no-parent
+     #+END_SRC
+  6. push it to github as: https://git.io/v63vs as ~gh-pages~
+  7. writing this Readme.org 
+
+* Thankful to
+  Most of content used here are googleeeeeeeeeeedddd out, so thankful,
+  its avaialbe in couple pages of google.com
+

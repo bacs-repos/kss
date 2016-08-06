@@ -1,0 +1,1000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<types>
+    <settings>
+        <add_resized_images_to_library>0</add_resized_images_to_library>
+        <register_translations_on_import>1</register_translations_on_import>
+        <images_remote>0</images_remote>
+        <images_remote_cache_time>36</images_remote_cache_time>
+        <help_box>by_types</help_box>
+        <hide_standard_custom_fields_metabox>show</hide_standard_custom_fields_metabox>
+        <postmeta_unfiltered_html>on</postmeta_unfiltered_html>
+        <usermeta_unfiltered_html>on</usermeta_unfiltered_html>
+    </settings>
+    <groups>
+        <group>
+            <ID>12</ID>
+            <post_content></post_content>
+            <post_title>Clients link</post_title>
+            <post_excerpt></post_excerpt>
+            <post_type>wp-types-group</post_type>
+            <post_status>publish</post_status>
+            <meta>
+                <_wp_types_group_filters_association>any</_wp_types_group_filters_association>
+                <_wp_types_group_fields>,client-link,</_wp_types_group_fields>
+                <_wp_types_group_post_types>,clients,</_wp_types_group_post_types>
+                <_wp_types_group_terms>all</_wp_types_group_terms>
+                <_wp_types_group_admin_styles></_wp_types_group_admin_styles>
+                <_wp_types_group_templates>all</_wp_types_group_templates>
+                <_wpcf_conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </_wpcf_conditional_display>
+            </meta>
+            <hash>64faf9e5cde228cf94b6a9edecf9d938</hash>
+            <checksum>64faf9e5cde228cf94b6a9edecf9d938</checksum>
+            <__types_id>clients-link</__types_id>
+            <__types_title>Clients link</__types_title>
+        </group>
+        <group>
+            <ID>14</ID>
+            <post_content></post_content>
+            <post_title>Projects data</post_title>
+            <post_excerpt></post_excerpt>
+            <post_type>wp-types-group</post_type>
+            <post_status>publish</post_status>
+            <meta>
+                <_wp_types_group_filters_association>any</_wp_types_group_filters_association>
+                <_wp_types_group_fields>,project-link,</_wp_types_group_fields>
+                <_wp_types_group_post_types>,projects,</_wp_types_group_post_types>
+                <_wp_types_group_terms>all</_wp_types_group_terms>
+                <_wp_types_group_admin_styles></_wp_types_group_admin_styles>
+                <_wp_types_group_templates>all</_wp_types_group_templates>
+                <_wpcf_conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </_wpcf_conditional_display>
+            </meta>
+            <hash>e2636b67f9103b7263098839b7faa630</hash>
+            <checksum>e2636b67f9103b7263098839b7faa630</checksum>
+            <__types_id>projects-data</__types_id>
+            <__types_title>Projects data</__types_title>
+        </group>
+        <group>
+            <ID>16</ID>
+            <post_content></post_content>
+            <post_title>Clients</post_title>
+            <post_excerpt></post_excerpt>
+            <post_type>wp-types-group</post_type>
+            <post_status>publish</post_status>
+            <meta>
+                <_wp_types_group_filters_association>any</_wp_types_group_filters_association>
+                <_wp_types_group_fields>,client-function,</_wp_types_group_fields>
+                <_wp_types_group_post_types>,testimonials,</_wp_types_group_post_types>
+                <_wp_types_group_terms>all</_wp_types_group_terms>
+                <_wp_types_group_admin_styles></_wp_types_group_admin_styles>
+                <_wp_types_group_templates>all</_wp_types_group_templates>
+                <_wpcf_conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </_wpcf_conditional_display>
+            </meta>
+            <hash>da5737691a26042d5a65149fa6b6060f</hash>
+            <checksum>da5737691a26042d5a65149fa6b6060f</checksum>
+            <__types_id>clients</__types_id>
+            <__types_title>Clients</__types_title>
+        </group>
+        <group>
+            <ID>17</ID>
+            <post_content></post_content>
+            <post_title>Employee info</post_title>
+            <post_excerpt></post_excerpt>
+            <post_type>wp-types-group</post_type>
+            <post_status>publish</post_status>
+            <meta>
+                <_wp_types_group_filters_association>any</_wp_types_group_filters_association>
+                <_wp_types_group_fields>,position,facebook,twitter,google-plus,custom-link,</_wp_types_group_fields>
+                <_wp_types_group_post_types>,employees,</_wp_types_group_post_types>
+                <_wp_types_group_terms>all</_wp_types_group_terms>
+                <_wp_types_group_admin_styles></_wp_types_group_admin_styles>
+                <_wp_types_group_templates>all</_wp_types_group_templates>
+                <_wpcf_conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </_wpcf_conditional_display>
+            </meta>
+            <hash>1ccec9404ff0b4a0e990bc826d04e471</hash>
+            <checksum>1ccec9404ff0b4a0e990bc826d04e471</checksum>
+            <__types_id>employee-info</__types_id>
+            <__types_title>Employee info</__types_title>
+        </group>
+        <group>
+            <ID>18</ID>
+            <post_content></post_content>
+            <post_title>Service icon</post_title>
+            <post_excerpt></post_excerpt>
+            <post_type>wp-types-group</post_type>
+            <post_status>publish</post_status>
+            <meta>
+                <_wp_types_group_filters_association>any</_wp_types_group_filters_association>
+                <_wp_types_group_fields>,service-icon,service-link,</_wp_types_group_fields>
+                <_wp_types_group_post_types>,services,</_wp_types_group_post_types>
+                <_wp_types_group_terms>all</_wp_types_group_terms>
+                <_wp_types_group_admin_styles></_wp_types_group_admin_styles>
+                <_wp_types_group_templates>all</_wp_types_group_templates>
+                <_wpcf_conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </_wpcf_conditional_display>
+            </meta>
+            <hash>299af76c79670de00545607869f1a94a</hash>
+            <checksum>299af76c79670de00545607869f1a94a</checksum>
+            <__types_id>service-icon</__types_id>
+            <__types_title>Service icon</__types_title>
+        </group>
+    </groups>
+    <fields>
+        <field>
+            <description></description>
+            <data>
+                <repetitive>1</repetitive>
+                <is_new>1</is_new>
+                <conditional_display>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+                <removed_from_history>1</removed_from_history>
+            </data>
+            <id>descriptions</id>
+            <name>descriptions</name>
+            <type>textfield</type>
+            <slug>descriptions</slug>
+            <meta_key>wpcf-descriptions</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>descriptions</__types_id>
+            <__types_title>descriptions</__types_title>
+            <hash>9eb5eb37ef099454421aa6c7609c56cf</hash>
+            <checksum>9eb5eb37ef099454421aa6c7609c56cf</checksum>
+        </field>
+        <field>
+            <id>service-icon</id>
+            <slug>service-icon</slug>
+            <type>textfield</type>
+            <name>Service icon</name>
+            <description>Example: &lt;strong&gt;fa-android&lt;/strong&gt;. Full list of icons is &lt;a href=\&quot;http://fortawesome.github.io/Font-Awesome/cheatsheet/\&quot; target=\&quot;_blank\&quot;&gt;here&lt;/a&gt;.</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-service-icon</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>service-icon</__types_id>
+            <__types_title>Service icon</__types_title>
+            <hash>910724f75db72d074720f8fda13742d2</hash>
+            <checksum>910724f75db72d074720f8fda13742d2</checksum>
+        </field>
+        <field>
+            <description></description>
+            <data>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>photo</id>
+            <name>Photo</name>
+            <type>file</type>
+            <slug>photo</slug>
+            <meta_key>wpcf-photo</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>photo</__types_id>
+            <__types_title>Photo</__types_title>
+            <hash>2e1c4a8fac15359de747a9fad111445f</hash>
+            <checksum>2e1c4a8fac15359de747a9fad111445f</checksum>
+        </field>
+        <field>
+            <description></description>
+            <data>
+                <repetitive>1</repetitive>
+                <is_new>1</is_new>
+                <conditional_display>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>social</id>
+            <name>Social</name>
+            <type>url</type>
+            <slug>social</slug>
+            <meta_key>wpcf-social</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>social</__types_id>
+            <__types_title>Social</__types_title>
+            <hash>4938caf982419429e3492cc5de59cce4</hash>
+            <checksum>4938caf982419429e3492cc5de59cce4</checksum>
+        </field>
+        <field>
+            <id>facebook</id>
+            <slug>facebook</slug>
+            <type>url</type>
+            <name>Facebook</name>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-facebook</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>facebook</__types_id>
+            <__types_title>Facebook</__types_title>
+            <hash>c21e90db441faaf9f93ad06b1f340b81</hash>
+            <checksum>c21e90db441faaf9f93ad06b1f340b81</checksum>
+        </field>
+        <field>
+            <id>twitter</id>
+            <slug>twitter</slug>
+            <type>url</type>
+            <name>Twitter</name>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-twitter</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>twitter</__types_id>
+            <__types_title>Twitter</__types_title>
+            <hash>1842053bb9ab7a4c87369904b3a9e167</hash>
+            <checksum>1842053bb9ab7a4c87369904b3a9e167</checksum>
+        </field>
+        <field>
+            <id>linkedin</id>
+            <slug>linkedin</slug>
+            <type>url</type>
+            <name>Linkedin</name>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-linkedin</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>linkedin</__types_id>
+            <__types_title>Linkedin</__types_title>
+            <hash>6fdd09ae09502fa486d9fe2b689e8981</hash>
+            <checksum>6fdd09ae09502fa486d9fe2b689e8981</checksum>
+        </field>
+        <field>
+            <id>google-plus</id>
+            <slug>google-plus</slug>
+            <type>url</type>
+            <name>Google Plus</name>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-google-plus</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>google-plus</__types_id>
+            <__types_title>Google Plus</__types_title>
+            <hash>59124f9ca2fa59847f6dd1b2fdef0dfb</hash>
+            <checksum>59124f9ca2fa59847f6dd1b2fdef0dfb</checksum>
+        </field>
+        <field>
+            <id>position</id>
+            <slug>position</slug>
+            <type>textfield</type>
+            <name>Position</name>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-position</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>position</__types_id>
+            <__types_title>Position</__types_title>
+            <hash>985de4d9bb460455305997664910dff8</hash>
+            <checksum>985de4d9bb460455305997664910dff8</checksum>
+        </field>
+        <field>
+            <id>client-function</id>
+            <slug>client-function</slug>
+            <type>textfield</type>
+            <name>Client function/Company name</name>
+            <description>Enter your client\&#039;s function/company name</description>
+            <data>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-client-function</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>client-function</__types_id>
+            <__types_title>Client function/Company name</__types_title>
+            <hash>5d7ab5a4e7e5b4856a6c4c1d6fd52283</hash>
+            <checksum>5d7ab5a4e7e5b4856a6c4c1d6fd52283</checksum>
+        </field>
+        <field>
+            <description>Upload your photo for this client.</description>
+            <data>
+                <repetitive>0</repetitive>
+                <is_new>1</is_new>
+                <conditional_display>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>client-photo</id>
+            <name>Client photo</name>
+            <type>image</type>
+            <slug>client-photo</slug>
+            <meta_key>wpcf-client-photo</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>client-photo</__types_id>
+            <__types_title>Client photo</__types_title>
+            <hash>dd8fb7d3cccc5e86e8ac9d87b982eabf</hash>
+            <checksum>dd8fb7d3cccc5e86e8ac9d87b982eabf</checksum>
+        </field>
+        <field>
+            <description></description>
+            <data>
+                <repetitive>0</repetitive>
+                <is_new>1</is_new>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>project-url</id>
+            <name>Project URL</name>
+            <type>url</type>
+            <slug>project-url</slug>
+            <meta_key>wpcf-project-url</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>project-url</__types_id>
+            <__types_title>Project URL</__types_title>
+            <hash>d47dba271d4df2cae79641bd502e14aa</hash>
+            <checksum>d47dba271d4df2cae79641bd502e14aa</checksum>
+        </field>
+        <field>
+            <id>service-link</id>
+            <slug>service-link</slug>
+            <type>url</type>
+            <name>Service link</name>
+            <description>If you want you can link your service to a page of your choice by entering the URL in this field</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-service-link</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>service-link</__types_id>
+            <__types_title>Service link</__types_title>
+            <hash>d308618737b289c53fc4578cf5bb1b08</hash>
+            <checksum>d308618737b289c53fc4578cf5bb1b08</checksum>
+        </field>
+        <field>
+            <description></description>
+            <data>
+                <set_value>1</set_value>
+                <save_empty>no</save_empty>
+                <display>db</display>
+                <display_value_not_selected></display_value_not_selected>
+                <display_value_selected></display_value_selected>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-toggle</id>
+            <name>Toggle individual header image for this page</name>
+            <type>checkbox</type>
+            <slug>header-toggle</slug>
+            <meta_key>wpcf-header-toggle</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-toggle</__types_id>
+            <__types_title>Toggle individual header image for this page</__types_title>
+            <hash>d82558f8ddc8ce24bbd8967f166337cd</hash>
+            <checksum>d82558f8ddc8ce24bbd8967f166337cd</checksum>
+        </field>
+        <field>
+            <description>Upload your header image for this page.</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <conditions>
+                        <condition_0b9ac4f9509231476d6fbb446b88d92d-1>
+                            <field>header-toggle</field>
+                            <operation>=</operation>
+                            <value>1</value>
+                        </condition_0b9ac4f9509231476d6fbb446b88d92d-1>
+                    </conditions>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-image</id>
+            <name>Header image</name>
+            <type>image</type>
+            <slug>header-image</slug>
+            <meta_key>wpcf-header-image</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-image</__types_id>
+            <__types_title>Header image</__types_title>
+            <hash>09e82bbfc9194884e01f9a41f31ac57c</hash>
+            <checksum>09e82bbfc9194884e01f9a41f31ac57c</checksum>
+        </field>
+        <field>
+            <description>Enter a title for this page (displayed on top of your header image)</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <conditions>
+                        <condition_54485e2d3ad87932b5dfcaf3b362cd6c-1>
+                            <field>header-toggle</field>
+                            <operation>=</operation>
+                            <value>1</value>
+                        </condition_54485e2d3ad87932b5dfcaf3b362cd6c-1>
+                    </conditions>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-title</id>
+            <name>Header title</name>
+            <type>textfield</type>
+            <slug>header-title</slug>
+            <meta_key>wpcf-header-title</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-title</__types_id>
+            <__types_title>Header title</__types_title>
+            <hash>d694eff32c06452746f4ecf563cf6b9b</hash>
+            <checksum>d694eff32c06452746f4ecf563cf6b9b</checksum>
+        </field>
+        <field>
+            <description>Enter some text for this page (displayed on top of your header image)</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <conditions>
+                        <condition_360801a612331ae8adbc5a165fe1292c-1>
+                            <field>header-toggle</field>
+                            <operation>=</operation>
+                            <value>1</value>
+                        </condition_360801a612331ae8adbc5a165fe1292c-1>
+                    </conditions>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-text</id>
+            <name>Header text</name>
+            <type>textfield</type>
+            <slug>header-text</slug>
+            <meta_key>wpcf-header-text</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-text</__types_id>
+            <__types_title>Header text</__types_title>
+            <hash>ba70156f63cb4337852343481b235e85</hash>
+            <checksum>ba70156f63cb4337852343481b235e85</checksum>
+        </field>
+        <field>
+            <description>Enter a title for your button (displayed on top of your header image)</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <conditions>
+                        <condition_337ea0e4fa4b47dded29dcfe55943f34-1>
+                            <field>header-toggle</field>
+                            <operation>=</operation>
+                            <value>1</value>
+                        </condition_337ea0e4fa4b47dded29dcfe55943f34-1>
+                    </conditions>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-button-title</id>
+            <name>Header button title</name>
+            <type>textfield</type>
+            <slug>header-button-title</slug>
+            <meta_key>wpcf-header-button-title</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-button-title</__types_id>
+            <__types_title>Header button title</__types_title>
+            <hash>96a5ca3a5b2e820edd093cc26e4d6d11</hash>
+            <checksum>96a5ca3a5b2e820edd093cc26e4d6d11</checksum>
+        </field>
+        <field>
+            <description>Enter a link for your button</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <conditions>
+                        <condition_fa636d6289058f822725b96ad9843d06-1>
+                            <field>header-toggle</field>
+                            <operation>=</operation>
+                            <value>1</value>
+                        </condition_fa636d6289058f822725b96ad9843d06-1>
+                    </conditions>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-button-link</id>
+            <name>Header button link</name>
+            <type>url</type>
+            <slug>header-button-link</slug>
+            <meta_key>wpcf-header-button-link</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-button-link</__types_id>
+            <__types_title>Header button link</__types_title>
+            <hash>34c910ff1940115aec7ed80e892925c3</hash>
+            <checksum>34c910ff1940115aec7ed80e892925c3</checksum>
+        </field>
+        <field>
+            <id>project-link</id>
+            <slug>project-link</slug>
+            <type>textfield</type>
+            <name>Project custom link</name>
+            <description>Add an URL here to make this project link to another page (internal or external). Leave it empty and it will default to its own page.</description>
+            <data>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-project-link</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>project-link</__types_id>
+            <__types_title>Project custom link</__types_title>
+            <hash>454441e14fca6ebe2c2138169d05d46f</hash>
+            <checksum>454441e14fca6ebe2c2138169d05d46f</checksum>
+        </field>
+        <field>
+            <description>Set a background image only for this page [available from Moesia 1.19]</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>page-bg-image</id>
+            <name>Page background image</name>
+            <type>image</type>
+            <slug>page-bg-image</slug>
+            <meta_key>wpcf-page-bg-image</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>page-bg-image</__types_id>
+            <__types_title>Page background image</__types_title>
+            <hash>3a26a3db7df5c9338deeb986310d7ab5</hash>
+            <checksum>3a26a3db7df5c9338deeb986310d7ab5</checksum>
+        </field>
+        <field>
+            <description>Add a logo here to replace the title [Available from Moesia 1.20]</description>
+            <data>
+                <repetitive>0</repetitive>
+                <is_new>1</is_new>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>header-logo</id>
+            <name>Header logo</name>
+            <type>image</type>
+            <slug>header-logo</slug>
+            <meta_key>wpcf-header-logo</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>header-logo</__types_id>
+            <__types_title>Header logo</__types_title>
+            <hash>4c076b630052a7af418a32881b1d4790</hash>
+            <checksum>4c076b630052a7af418a32881b1d4790</checksum>
+        </field>
+        <field>
+            <description>Here you can add a link for a Youtube/Vimeo video that will be displayed in a lightbox when you click on the magnify icon. [will be available from Moesia 1.23]</description>
+            <data>
+                <repetitive>0</repetitive>
+                <is_new>1</is_new>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <id>video-url</id>
+            <name>Video URL</name>
+            <type>url</type>
+            <slug>video-url</slug>
+            <meta_key>wpcf-video-url</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>video-url</__types_id>
+            <__types_title>Video URL</__types_title>
+            <hash>47ffb679e1d1e5bca6542fbc622172de</hash>
+            <checksum>47ffb679e1d1e5bca6542fbc622172de</checksum>
+        </field>
+        <field>
+            <id>client-link</id>
+            <slug>client-link</slug>
+            <type>url</type>
+            <name>Link</name>
+            <description>Add a link for the client\&#039;s website here [optional]</description>
+            <data>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-client-link</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>client-link</__types_id>
+            <__types_title>Link</__types_title>
+            <hash>ccafad6f56b210f5bd72130ec5944b30</hash>
+            <checksum>ccafad6f56b210f5bd72130ec5944b30</checksum>
+        </field>
+        <field>
+            <id>custom-link</id>
+            <slug>custom-link</slug>
+            <type>url</type>
+            <name>Custom link</name>
+            <description>Add a link here if you want the employee name to link somewhere.</description>
+            <data>
+                <repetitive>0</repetitive>
+                <conditional_display>
+                    <custom_use>0</custom_use>
+                    <relation>AND</relation>
+                    <custom></custom>
+                </conditional_display>
+                <disabled_by_type>0</disabled_by_type>
+            </data>
+            <meta_key>wpcf-custom-link</meta_key>
+            <meta_type>postmeta</meta_type>
+            <__types_id>custom-link</__types_id>
+            <__types_title>Custom link</__types_title>
+            <hash>15c991939f30d13d1c05ef74ae09ea34</hash>
+            <checksum>15c991939f30d13d1c05ef74ae09ea34</checksum>
+        </field>
+    </fields>
+    <types>
+        <type>
+            <__types_id>services</__types_id>
+            <__types_title>Services</__types_title>
+            <wpcf-post-type>services</wpcf-post-type>
+            <labels>
+                <name>Services</name>
+                <singular_name>Service</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent text</parent_item_colon>
+                <all_items>All items</all_items>
+            </labels>
+            <slug>services</slug>
+            <description></description>
+            <icon>admin-post</icon>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon>dashicons-clipboard</menu_icon>
+            <taxonomies>
+                <category>1</category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <editor>1</editor>
+                <thumbnail>1</thumbnail>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+                <pages>1</pages>
+            </rewrite>
+            <has_archive>1</has_archive>
+            <has_archive_slug></has_archive_slug>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <can_export>1</can_export>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <_builtin></_builtin>
+            <_toolset_edit_last>1442036135</_toolset_edit_last>
+            <_wpcf_author_id>63</_wpcf_author_id>
+            <id>services</id>
+            <hash>c7a753657a7ddb55cae882405450dedf</hash>
+            <checksum>c7a753657a7ddb55cae882405450dedf</checksum>
+        </type>
+        <type>
+            <__types_id>employees</__types_id>
+            <__types_title>Employees</__types_title>
+            <wpcf-post-type>employees</wpcf-post-type>
+            <labels>
+                <name>Employees</name>
+                <singular_name>Employee</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent text</parent_item_colon>
+                <all_items>All items</all_items>
+            </labels>
+            <slug>employees</slug>
+            <description></description>
+            <icon>admin-post</icon>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <taxonomies>
+                <category>1</category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <editor>1</editor>
+                <thumbnail>1</thumbnail>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+                <pages>1</pages>
+            </rewrite>
+            <has_archive>1</has_archive>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <can_export>1</can_export>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>employees</id>
+            <hash>d0fe11f63c28d89e315fb8742c462279</hash>
+            <checksum>d0fe11f63c28d89e315fb8742c462279</checksum>
+        </type>
+        <type>
+            <__types_id>testimonials</__types_id>
+            <__types_title>Testimonials</__types_title>
+            <wpcf-post-type>testimonials</wpcf-post-type>
+            <labels>
+                <name>Testimonials</name>
+                <singular_name>Testimonial</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent text</parent_item_colon>
+                <all_items>All items</all_items>
+            </labels>
+            <slug>testimonials</slug>
+            <description></description>
+            <icon>admin-post</icon>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon></menu_icon>
+            <taxonomies>
+                <category>1</category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <editor>1</editor>
+                <thumbnail>1</thumbnail>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+                <pages>1</pages>
+            </rewrite>
+            <has_archive>1</has_archive>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <can_export>1</can_export>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>testimonials</id>
+            <hash>6c386f905c7aefa9e01a30b8920280f5</hash>
+            <checksum>6c386f905c7aefa9e01a30b8920280f5</checksum>
+        </type>
+        <type>
+            <wpcf-post-type>clients</wpcf-post-type>
+            <labels>
+                <name>Clients</name>
+                <singular_name>Client</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent text</parent_item_colon>
+                <all_items>All items</all_items>
+            </labels>
+            <slug>clients</slug>
+            <description></description>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon>dashicons-universal-access</menu_icon>
+            <supports>
+                <title>1</title>
+                <thumbnail>1</thumbnail>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+                <pages>1</pages>
+            </rewrite>
+            <has_archive>1</has_archive>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <can_export>1</can_export>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>clients</id>
+            <__types_id>clients</__types_id>
+            <__types_title>Clients</__types_title>
+            <hash>c6064a3e687a041c1770e9802a715e4f</hash>
+            <checksum>c6064a3e687a041c1770e9802a715e4f</checksum>
+        </type>
+        <type>
+            <__types_id>projects</__types_id>
+            <__types_title>Projects</__types_title>
+            <wpcf-post-type>projects</wpcf-post-type>
+            <labels>
+                <name>Projects</name>
+                <singular_name>Project</singular_name>
+                <add_new>Add New</add_new>
+                <add_new_item>Add New %s</add_new_item>
+                <edit_item>Edit %s</edit_item>
+                <new_item>New %s</new_item>
+                <view_item>View %s</view_item>
+                <search_items>Search %s</search_items>
+                <not_found>No %s found</not_found>
+                <not_found_in_trash>No %s found in Trash</not_found_in_trash>
+                <parent_item_colon>Parent text</parent_item_colon>
+                <all_items>All items</all_items>
+            </labels>
+            <slug>projects</slug>
+            <description></description>
+            <icon>admin-post</icon>
+            <public>public</public>
+            <menu_position></menu_position>
+            <menu_icon>dashicons-media-interactive</menu_icon>
+            <taxonomies>
+                <category>1</category>
+            </taxonomies>
+            <supports>
+                <title>1</title>
+                <editor>1</editor>
+                <comments>1</comments>
+                <revisions>1</revisions>
+                <author>1</author>
+                <thumbnail>1</thumbnail>
+            </supports>
+            <rewrite>
+                <enabled>1</enabled>
+                <custom>normal</custom>
+                <slug></slug>
+                <with_front>1</with_front>
+                <feeds>1</feeds>
+                <pages>1</pages>
+            </rewrite>
+            <has_archive>1</has_archive>
+            <show_in_menu>1</show_in_menu>
+            <show_in_menu_page></show_in_menu_page>
+            <show_ui>1</show_ui>
+            <publicly_queryable>1</publicly_queryable>
+            <can_export>1</can_export>
+            <show_in_nav_menus>1</show_in_nav_menus>
+            <query_var_enabled>1</query_var_enabled>
+            <query_var></query_var>
+            <permalink_epmask>EP_PERMALINK</permalink_epmask>
+            <id>projects</id>
+            <hash>08fbd4fce6440f5f53c1a5a08322c8ef</hash>
+            <checksum>08fbd4fce6440f5f53c1a5a08322c8ef</checksum>
+        </type>
+    </types>
+</types>
